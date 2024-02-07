@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "api",
+      "author": "suraj jha",
+      "authorId": 10,
+      "views": 23,
+      "reviews": 354
+    },
+    {
+      "id": 2,
+      "title": "software",
+      "author": "ram sharma",
+      "authorId": 20,
+      "views": 243,
+      "reviews": 94
+    }
+  ],
+  "authors": [
+    {
+      "id": 10,
+      "first_name": "suraj",
+      "last_name": "jha",
+      "posts": [
+        1
+      ]
+    },
+    {
+      "id": 20,
+      "first_name": "ram",
+      "last_name": "sharma",
+      "posts": [
+        2
+      ]
+    }
+  ]
+}

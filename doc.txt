@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "noodles",
+      "author": "suraj jha",
+      "authorId": 10,
+      "views": 13,
+      "reviews": 25
+    } 
+  ],
+  "authors": [
+    {
+      "id": 10,
+      "first_name": "suraj",
+      "last_name": "jha",
+      "posts": [
+        2
+      ]
+    }
+  ]
+}
